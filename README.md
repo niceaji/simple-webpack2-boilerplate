@@ -1,5 +1,6 @@
 #  simple-webpack2-boilerplate
 
+> A template for es6 and webpack2
 
 ## Usage
 

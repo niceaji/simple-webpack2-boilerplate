@@ -1,8 +1,8 @@
 {
   "name": "simple-webpack2-boilerplate",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A template for es6 and webpack2",
+  "main": "src/index.js",
   "scripts": {
     "start": "webpack-dev-server --devtool cheap-module-eval-source-map",
     "build": "NODE_ENV=production webpack -p"
@@ -23,5 +23,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niceaji/simple-webpack2-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/niceaji/simple-webpack2-boilerplate/issues"
+  },
+  "homepage": "https://github.com/niceaji/simple-webpack2-boilerplate#readme"
 }
