@@ -1,6 +1,6 @@
 {
   "name": "simple-webpack2-boilerplate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A template for es6 and webpack2",
   "main": "src/index.js",
   "scripts": {
